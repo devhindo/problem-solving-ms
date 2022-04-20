@@ -16,7 +16,7 @@ int main() {
         if (firstStringIsSmaller) {
             cout << "-1";
         } else {
-            cout << "1"
+            cout << "1";
         }
     }
 }
